@@ -1,0 +1,22 @@
+p {
+  font-family: Lato;
+}
+
+.nav{
+  background-color: black;
+  display: flex;
+  height:40px;
+}
+
+a{
+  color:white;
+  text-decoration: none;
+  padding-left:20px;
+
+}
+ul {
+  flex-direction:row;
+  display: flex;
+
+
+}
